@@ -1,7 +1,7 @@
 # FinCoPilot-Live
 # 🚀 FinCoPilot: Autonomous AI Wealth Manager
 
-**Experience the live application here:** [👉 Click here to view the live app on Render](https://your-project-link.onrender.com](https://fincopilot-wnq5.onrender.com/)
+**Experience the live application here:** [![Live Demo](https://img.shields.io/badge/View_Live_Project-FF9900?style=for-the-badge&logo=render&logoColor=white)](https://fincopilot-wnq5.onrender.com/)
 
 ### 🔐 Live Demo Access
 To explore the dashboard without creating an account, use our test credentials:
